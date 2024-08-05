@@ -154,9 +154,6 @@ margin:15px;
 }
 
 @media only screen and (max-width: 768px) {
-    .body {
-      background-color: rgb(4, 17, 21);
-    }
     .img-About{
         width: 100%;
     }
